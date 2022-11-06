@@ -11,3 +11,4 @@ public class Task2 {
 * Adding a value to a string turn's it into it's decimal form.
 * A = 65 in unicode
 */
+
