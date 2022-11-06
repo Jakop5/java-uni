@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d841aa-7ab1-4945-866d-aaa2f2dc436c" name="Changes" comment="adding dirc">
+    <list default="true" id="e0d841aa-7ab1-4945-866d-aaa2f2dc436c" name="Changes" comment="Task2 from E01 done.">
+      <change afterPath="$PROJECT_DIR$/src/E01/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E01/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E01/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667767050559</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task2 from E01 done.">
+      <created>1667770029746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667770029746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding dirc" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding dirc" />
+    <MESSAGE value="Task2 from E01 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2 from E01 done." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
