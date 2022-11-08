@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d841aa-7ab1-4945-866d-aaa2f2dc436c" name="Changes" comment="Task2 from E01 done.">
-      <change afterPath="$PROJECT_DIR$/src/E01/Task3.java" afterDir="false" />
+    <list default="true" id="e686a545-a735-4528-8b60-f98d609b97fa" name="Changes" comment="task2 E01 fixed">
+      <change afterPath="$PROJECT_DIR$/src/E02/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E02/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E07/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E07/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +58,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0d841aa-7ab1-4945-866d-aaa2f2dc436c" name="Changes" comment="" />
+      <changelist id="e686a545-a735-4528-8b60-f98d609b97fa" name="Changes" comment="task2 E01 fixed" />
       <created>1667766444737</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
