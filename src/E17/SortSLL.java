@@ -6,7 +6,7 @@ public class SortSLL {
     public void addSorted(int num){
 
     }
-
+    /* not working right now
     public void show(){
         System.out.print("[ ");
         Node tmp = head;
@@ -16,7 +16,7 @@ public class SortSLL {
         }
         System.out.print("]");
     }
-
+    */
     public static void main(String[] args){
 
     }
