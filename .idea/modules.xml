@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C03/C03.iml" filepath="$PROJECT_DIR$/Ex_C/C03/C03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C04/C04.iml" filepath="$PROJECT_DIR$/Ex_C/C04/C04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C07/C07.iml" filepath="$PROJECT_DIR$/Ex_C/C07/C07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C08/C08.iml" filepath="$PROJECT_DIR$/Ex_C/C08/C08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C11/C11.iml" filepath="$PROJECT_DIR$/Ex_C/C11/C11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C12/C12.iml" filepath="$PROJECT_DIR$/Ex_C/C12/C12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C13/C13.iml" filepath="$PROJECT_DIR$/Ex_C/C13/C13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C15/C15.iml" filepath="$PROJECT_DIR$/Ex_C/C15/C15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C20/C20.iml" filepath="$PROJECT_DIR$/Ex_C/C20/C20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C21/C21.iml" filepath="$PROJECT_DIR$/Ex_C/C21/C21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/C25/C25.iml" filepath="$PROJECT_DIR$/Ex_C/C25/C25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_C/Ex_C.iml" filepath="$PROJECT_DIR$/Ex_C/Ex_C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/Ex_P.iml" filepath="$PROJECT_DIR$/Ex_P/Ex_P.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P01/P01.iml" filepath="$PROJECT_DIR$/Ex_P/P01/P01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P02/P02.iml" filepath="$PROJECT_DIR$/Ex_P/P02/P02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P03/P03.iml" filepath="$PROJECT_DIR$/Ex_P/P03/P03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P04/P04.iml" filepath="$PROJECT_DIR$/Ex_P/P04/P04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P05/P05.iml" filepath="$PROJECT_DIR$/Ex_P/P05/P05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P06/P06.iml" filepath="$PROJECT_DIR$/Ex_P/P06/P06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P07/P07.iml" filepath="$PROJECT_DIR$/Ex_P/P07/P07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P09/P09.iml" filepath="$PROJECT_DIR$/Ex_P/P09/P09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P10/P10.iml" filepath="$PROJECT_DIR$/Ex_P/P10/P10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P11/P11.iml" filepath="$PROJECT_DIR$/Ex_P/P11/P11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P12/P12.iml" filepath="$PROJECT_DIR$/Ex_P/P12/P12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P14/P14.iml" filepath="$PROJECT_DIR$/Ex_P/P14/P14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P15/P15.iml" filepath="$PROJECT_DIR$/Ex_P/P15/P15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P17/P17.iml" filepath="$PROJECT_DIR$/Ex_P/P17/P17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P20/P20.iml" filepath="$PROJECT_DIR$/Ex_P/P20/P20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P22/P22.iml" filepath="$PROJECT_DIR$/Ex_P/P22/P22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_P/P23/P23.iml" filepath="$PROJECT_DIR$/Ex_P/P23/P23.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-uni.iml" filepath="$PROJECT_DIR$/java-uni.iml" />
     </modules>
   </component>

@@ -5,8 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e686a545-a735-4528-8b60-f98d609b97fa" name="Changes" comment="sync with uni stuff">
+      <change afterPath="$PROJECT_DIR$/Ex_C/C03/C03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C03/C03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C04/C04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C04/C04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C07/C07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C08/C08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C11/C11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C12/C12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C13/C13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C15/C15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C20/C20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C21/C21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/C25/C25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_C/Ex_C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/Ex_P.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P01/P01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P02/P02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P03/P03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P04/P04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P05/P05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P06/P06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P07/P07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P09/P09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P10/P10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P11/P11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P12/P12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P14/P14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P15/P15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P17/P17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P20/P20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P22/P22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_P/P23/P23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E17/SortSLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E17/SortSLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E01/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E01/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E01/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E02/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E02/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E02/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E03/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E03/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E03/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E04/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E04/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E04/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E05/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E06/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E06/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E07/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E07/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E08/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E08/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E09/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E10/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E10/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E11/FuncStat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E11/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E11/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E12/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E12/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E13/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E15/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E15/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E15/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E17/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E17/SortSLL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E17/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E19/CalculatingDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E19/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E19/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E19/Computers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +110,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2HBldI6eNVQSD6YHEmT3JLoYoiC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,21 +121,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Desktop/Programowanie/java-uni/src/E11&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.25641027&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jppp3/Java_23-24",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.25641027",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Desktop\Programowanie\java-uni\src\E11" />
@@ -88,6 +174,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,6 +189,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667766444737</updated>
+      <workItem from="1706521814685" duration="271000" />
+      <workItem from="1706522092802" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="adding dirc">
       <created>1667767050559</created>
@@ -156,18 +251,15 @@
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
-              <option name="HIGHLIGHTERS">
-                <map>
-                  <entry key="MERGE_COMMITS" value="true" />
-                  <entry key="MY_COMMITS" value="true" />
-                </map>
-              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -177,6 +269,12 @@
                       </list>
                     </value>
                   </entry>
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MERGE_COMMITS" value="true" />
+                  <entry key="MY_COMMITS" value="true" />
                 </map>
               </option>
             </State>
